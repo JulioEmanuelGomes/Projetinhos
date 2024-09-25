@@ -1,8 +1,8 @@
 const msg = document.getElementById("msg");
 const img = document.getElementById("image");
 const date = new Date()
-//const hour = date.getHours()
-var hour = 1
+const hour = date.getHours()
+
 function carregar() {
 
 
